@@ -1,0 +1,187 @@
+          Welcome to Scrabble!
+--------------------------------------
+[ENHANCEMENT] > Word Validation disabled!
+[ENHANCEMENT] > Board Expansion enabled!
+--------------------------------------
+
+Menu
+----
+1. New game
+2. Load game
+3. Credits (Show student information)
+4. Quit
+>
+Enter the filename of the game to load:
+> "../no_word_validation.txt" is not a valid file path!
+
+> "asdaffsr" is not a valid file path!
+
+>
+
+Scrabble game successfully loaded!
+Let's play!
+
+JACKSON, it's your turn
+Score for JACKSON: 3
+Score for JASON: 5
+    2   3   4   5   6
+  ---------------------
+F |   |   |   |   |   |
+G |   |   | D |   |   |
+H |   | T | A | R |   |
+I |   |   | R |   |   |
+J |   |   | E |   |   |
+K |   |   |   |   |   |
+
+Your hand is:
+I-1, G-2, F-4, A-1, E-1, F-4, N-1
+
+> >
+JASON, it's your turn
+Score for JACKSON: 12
+Score for JASON: 5
+    2   3   4   5   6
+  ---------------------
+F |   |   |   |   |   |
+G |   |   | D |   |   |
+H |   | T | A | R |   |
+I |   |   | R |   |   |
+J |   |   | E |   |   |
+K |   |   | F |   |   |
+L |   |   |   |   |   |
+
+Your hand is:
+E-1, I-1, O-1, L-1, A-1, R-1, V-4
+
+> >
+JACKSON, it's your turn
+Score for JACKSON: 12
+Score for JASON: 15
+    2   3   4   5   6
+  ---------------------
+F |   |   |   |   |   |
+G |   |   | D |   |   |
+H |   | T | A | R |   |
+I |   |   | R |   |   |
+J |   |   | E |   |   |
+K |   |   | F |   |   |
+L |   |   | O |   |   |
+M |   |   |   |   |   |
+
+Your hand is:
+I-1, G-2, F-4, A-1, E-1, N-1, V-4
+
+> >
+JASON, it's your turn
+Score for JACKSON: 19
+Score for JASON: 15
+    2   3   4   5   6
+  ---------------------
+F |   |   |   |   |   |
+G |   |   | D |   |   |
+H |   | T | A | R |   |
+I |   |   | R |   |   |
+J |   |   | E |   |   |
+K |   | N | F |   |   |
+L |   |   | O |   |   |
+M |   |   |   |   |   |
+
+Your hand is:
+E-1, I-1, L-1, A-1, R-1, V-4, N-1
+
+>
+JACKSON, it's your turn
+Score for JACKSON: 19
+Score for JASON: 15
+    2   3   4   5   6
+  ---------------------
+F |   |   |   |   |   |
+G |   |   | D |   |   |
+H |   | T | A | R |   |
+I |   |   | R |   |   |
+J |   |   | E |   |   |
+K |   | N | F |   |   |
+L |   |   | O |   |   |
+M |   |   |   |   |   |
+
+Your hand is:
+I-1, G-2, F-4, A-1, E-1, V-4, O-1
+
+>
+JASON, it's your turn
+Score for JACKSON: 19
+Score for JASON: 15
+    2   3   4   5   6
+  ---------------------
+F |   |   |   |   |   |
+G |   |   | D |   |   |
+H |   | T | A | R |   |
+I |   |   | R |   |   |
+J |   |   | E |   |   |
+K |   | N | F |   |   |
+L |   |   | O |   |   |
+M |   |   |   |   |   |
+
+Your hand is:
+E-1, I-1, A-1, R-1, V-4, N-1, I-1
+
+>
+JACKSON, it's your turn
+Score for JACKSON: 19
+Score for JASON: 15
+    2   3   4   5   6
+  ---------------------
+F |   |   |   |   |   |
+G |   |   | D |   |   |
+H |   | T | A | R |   |
+I |   |   | R |   |   |
+J |   |   | E |   |   |
+K |   | N | F |   |   |
+L |   |   | O |   |   |
+M |   |   |   |   |   |
+
+Your hand is:
+I-1, G-2, A-1, E-1, V-4, O-1, D-2
+
+>
+JASON, it's your turn
+Score for JACKSON: 19
+Score for JASON: 15
+    2   3   4   5   6
+  ---------------------
+F |   |   |   |   |   |
+G |   |   | D |   |   |
+H |   | T | A | R |   |
+I |   |   | R |   |   |
+J |   |   | E |   |   |
+K |   | N | F |   |   |
+L |   |   | O |   |   |
+M |   |   |   |   |   |
+
+Your hand is:
+E-1, I-1, A-1, V-4, N-1, I-1, R-1
+
+>
+JACKSON, it's your turn
+Score for JACKSON: 19
+Score for JASON: 15
+    2   3   4   5   6
+  ---------------------
+F |   |   |   |   |   |
+G |   |   | D |   |   |
+H |   | T | A | R |   |
+I |   |   | R |   |   |
+J |   |   | E |   |   |
+K |   | N | F |   |   |
+L |   |   | O |   |   |
+M |   |   |   |   |   |
+
+Your hand is:
+I-1, G-2, A-1, E-1, V-4, O-1, D-2
+
+> Game over
+Score for JACKSON: 19
+Score for JASON: 15
+Player JACKSON won!
+
+Goodbye :)

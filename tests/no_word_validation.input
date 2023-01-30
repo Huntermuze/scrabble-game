@@ -1,0 +1,16 @@
+2
+../no_word_validation.txt
+asdaffsr
+../tests/no_word_validation.txt
+place F at K4
+place done
+place O at L4
+place done
+place N at K3
+place done
+replace L
+replace F
+replace R
+pass
+pass
+pass

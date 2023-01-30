@@ -1,0 +1,14 @@
+2
+../tests/saved_game.txt
+place P at B3
+place done
+place P at C2
+place done
+place Q at B3
+place done
+replace Z
+replace E
+pass
+pass
+pass
+pass
